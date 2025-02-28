@@ -12,4 +12,8 @@
 ``npm run cypress:open``
 
 - To run Cypress tests inside a browser:  
-``npm run cypress:open
+``npm run cypress:open``
+
+## Additional Notes
+
+- The Postman collection can be found inside the `postman-collection` folder 
